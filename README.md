@@ -3,6 +3,7 @@
 I am currently collaborating on:
  - [DTI-SL](https://github.com/Emdee-S/DTI-SL)
    *My research lab project*
+   
 I am currently working on:
  - [SkyScout]
    *SkyScout is a web app that helps you find and track the best flight deals automatically. Set your routes and dates once, and SkyScout will monitor prices in real time, sending you alerts whenever fares drop below your threshold*

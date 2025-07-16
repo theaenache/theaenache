@@ -3,7 +3,7 @@
 I am currently collaborating on:
  - **[DTI-SL](https://github.com/Emdee-S/DTI-SL)**
    
-   *My research lab project*
+   *My research lab project with Sekeh Lab at SDSU*
    
 
 

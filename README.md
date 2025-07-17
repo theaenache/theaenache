@@ -1,7 +1,7 @@
 ## Hi! My name is Thea and I'm an undergrad Computer Science and Public Health double major with minors in Statistics and Math.
 
 I am currently collaborating on:
- - **[DTI-SL](https://github.com/Emdee-S/DTI-SL)**
+ - **[DTI-SL]**
    
    *My research lab project with Sekeh Lab at SDSU*
    

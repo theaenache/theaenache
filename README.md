@@ -2,7 +2,7 @@
 
 I am currently collaborating on:
  - **DTIAdapt**
-   *My research lab project with Sekeh Lab at SDSU*
+   *My research lab project affiliated with Sekeh Lab at SDSU*
    
 
 

@@ -1,4 +1,4 @@
-## Hi! Welcome! My name is Thea, and I'm currently an undergrad Computer Science and Public Health double major with minors in Statistics and Math.
+## Hi! Welcome! My name is Thea, and I'm an undergrad Computer Science and Public Health double major with minors in Statistics and Math.
 
 I am currently collaborating on:
  - **DTIAdapt**

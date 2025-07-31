@@ -1,6 +1,6 @@
 # Welcome, I'm Thea!
 
-I'm a college student at **San Diego State University**, pursuing a **B.S. in Public Health** and **Computer Science**, with minors in **Statistics** and **Mathematics**. I'm passionate about bridging the gap between technology and health equity — from data-driven disease prevention to AI-powered healthcare tools.
+I'm a college student at **San Diego State University**, pursuing a **B.S. in Public Health** and **Computer Science**, with minors in **Statistics** and **Mathematics**. I'm passionate about bridging the gap between technology and health equity, from data-driven disease prevention to AI-powered healthcare tools.
 
 ## What I'm Interested In
 

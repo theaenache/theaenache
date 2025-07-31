@@ -1,4 +1,3 @@
-# Welcome, I'm Thea!
 
 <p align="center">
   <img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png?raw=true" 
@@ -6,6 +5,8 @@
        style="border-radius: 50%; object-fit: cover;" 
        alt="Headshot" />
 </p>
+
+# Welcome, I'm Thea!
 
 I'm a college student at **San Diego State University**, pursuing a **B.S. in Public Health** and **Computer Science**, with minors in **Statistics** and **Mathematics**. I'm passionate about bridging the gap between technology and health equity, from data-driven disease prevention to AI-powered healthcare tools.
 

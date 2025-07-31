@@ -1,7 +1,7 @@
 # Welcome, I'm Thea!
 
 <p align="center">
-  <img src="[https://github.com/theaenache/theaenache/blob/main/headshot.jpg?raw=true](https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png)](https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png)" 
+  <img src="(https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png)](https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png)" 
        alt="Headshot" 
        width="150" 
        style="border-radius: 50%; object-fit: cover;" />

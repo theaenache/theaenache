@@ -1,9 +1,42 @@
-## Hi! Welcome! My name is Thea, and I'm an undergrad Computer Science and Public Health double major with minors in Statistics and Math.
+# Welcome, I'm Thea!
 
-I am currently collaborating on:
- - **DTIAdapt**
-   *My research lab project affiliated with Sekeh Lab at SDSU*
-   
+I'm a college student at **San Diego State University**, pursuing a **B.S. in Public Health** and **Computer Science**, with minors in **Statistics** and **Mathematics**. I'm passionate about bridging the gap between technology and health equity — from data-driven disease prevention to AI-powered healthcare tools.
+
+## What I'm Interested In
+
+-  **Biomedical informatics** and **machine learning** for public health impact
+-  **Global health** and health equity through data and policy
+-  **Data science** for health outcomes research
+-  AI & deep learning applications for health advancements
+
+## Projects
+
+Here are a few things I've worked on or am currently building:
+
+- **[DTIAdapt](https://github.com/theaenache/DTIAdapt)** – A deep learning framework for drug-target interaction prediction using cross-attention and domain adaptation
+- **GlucoPal** – A mobile app concept for inclusive diabetes management, designed with health equity in mind
+- **Candida auris ML** – Using machine learning to predict the climate-driven risk of a lethal, drug-resistant pathogen
+- **COVID-19 Political Spread** – Statistical modeling of how political affiliation influenced vaccine uptake and infection spread in the U.S.
+
+## Skills & Tools
+
+- **Languages**: Python, R, Java, C++, HTML/CSS
+- **Data Science**: Pandas, NumPy, Scikit-learn, Minitab, Tableau
+- **Machine Learning**: PyTorch, TensorFlow, Hugging Face, XGBoost
+- **Web**: Flask, Streamlit, Jupyter, Git & GitHub
+
+## Currently Learning
+
+- Advanced neural networks & attention mechanisms  
+- Geographic health mapping and spatial epidemiology  
+- Grant writing & nonprofit data reporting 
+
+## Let’s Connect!
+- LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)
+
+
+
+
 
 
 <!--

@@ -1,10 +1,7 @@
-
-<p align="center">
-  <img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png?raw=true" 
-       width="150" 
-       style="border-radius: 50%; object-fit: cover;" 
-       alt="Headshot" />
-</p>
+<img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png?raw=true" 
+     width="150" 
+     style="border-radius: 50%; object-fit: cover; float: left; margin-right: 20px;" 
+     alt="Headshot" />
 
 # Welcome, I'm Thea!
 

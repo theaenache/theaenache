@@ -7,7 +7,7 @@ I'm a college student at **San Diego State University**, pursuing a **B.S. in Pu
 -  **Biomedical informatics** and **machine learning** for public health impact
 -  **Global health** and health equity through data and policy
 -  **Data science** for health outcomes research
--  AI & deep learning applications for health advancements
+-  AI & deep learning applications towards **health advancements**
 
 ## Projects
 

@@ -13,9 +13,9 @@ I'm a college student at **San Diego State University**, pursuing a **B.S. in Pu
 
 Here are a few things I've worked on or am currently building:
 
-- **[DTIAdapt](https://github.com/theaenache/DTIAdapt)** – A deep learning framework for drug-target interaction prediction using cross-attention and domain adaptation
-- **GlucoPal** – A mobile app concept for inclusive diabetes management, designed with health equity in mind
-- **Candida auris ML** – Using machine learning to predict the climate-driven risk of a lethal, drug-resistant pathogen
+- **[DTIAdapt](https://github.com/theaenache/DTIAdapt)** – A deep learning framework for drug-target interaction prediction using cross-attention and domain adaptation.
+- **GlucoPal** – A mobile app concept for inclusive diabetes management, designed with health equity in mind.
+- **SporeSpatial** – Using machine learning to predict the climate-driven risk of *Candida auris*, a lethal fungal infection.
 - **COVID-19 Political Spread** – Statistical modeling of how political affiliation influenced vaccine uptake and infection spread in the U.S.
 
 ## Skills & Tools

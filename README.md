@@ -63,7 +63,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 -  **Global health** and health equity through data and policy
 -  **Data science** for health outcomes research
 -  AI & deep learning applications towards **health advancements**
--  It is very easy to make me interested in pretty much anything
+-  It is very easy to make me curious about pretty much anything
 
 ## Projects
 

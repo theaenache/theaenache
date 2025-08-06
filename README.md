@@ -74,18 +74,11 @@ Here are a few things I've worked on or am currently building:
 - **SporeSpatial** – Using machine learning to predict the climate-driven risk of *Candida auris*, a lethal fungal infection.
 - **COVID-19 Political Spread** – Statistical modeling of how political affiliation influenced vaccine uptake and infection spread in the U.S.
 
-## Skills & Tools
-
-- **Languages**: Python, R, Java, C++, HTML/CSS
-- **Data Science**: Pandas, NumPy, Scikit-learn, Minitab, Tableau
-- **Machine Learning**: PyTorch, TensorFlow, Hugging Face, XGBoost
-- **Web**: Flask, Streamlit, Jupyter, Git & GitHub
-
 ## Currently Learning
 
 - Advanced neural networks & attention mechanisms  
 - Geographic health mapping and spatial epidemiology  
-- Grant writing & nonprofit data reporting 
+- Grant writing & nonprofit data reporting
 
 ## Let’s Connect!
 - LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)

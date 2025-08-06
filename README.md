@@ -59,7 +59,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 
 ## What I'm Interested In
 
--  **Biomedical informatics** and **machine learning** with public health impact outcomes
+-  **Biomedical informatics** and **machine learning** with public health impact 
 -  **Global health** and health equity through data and policy
 -  **Data science** for health outcomes research
 -  AI & deep learning applications towards **health advancements**

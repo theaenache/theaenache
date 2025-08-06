@@ -6,7 +6,7 @@
 <h1>Welcome to my page!</h1>
 
 I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student from 🇷🇴 & 🇺🇸, currently living & studying in 🇺🇸<b>San Diego, CA<b>.  
-I work on epidemiology, ML for health, data science for health equity, and data-driven public health tools.
+I extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven public health tools.
 
 ## Things I code with
 

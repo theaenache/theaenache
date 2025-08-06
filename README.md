@@ -5,7 +5,8 @@
 
 <h1>Welcome to my page!</h1>
 
-I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student from 🇷🇴 & 🇺🇸, currently living & studying in 🇺🇸 <b>San Diego, CA<b>.
+I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student from  <img src="https://flagcdn.com/w40/ro.png" width="20" style="border-radius: 50%; vertical-align: middle;" alt="Romania Flag" />&<img src="https://flagcdn.com/w40/us.png" width="20" style="border-radius: 50%; vertical-align: middle;" alt="USA Flag" />,
+<img src="https://flagcdn.com/w40/ro.png" width="20" style="border-radius: 50%; vertical-align: middle;" alt="Romania Flag" />., currently living & studying in<img src="https://flagcdn.com/w40/us.png" width="20" style="border-radius: 50%; vertical-align: middle;" alt="USA Flag" /> <b>San Diego, CA<b>.
 
 I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven public health tools.
 

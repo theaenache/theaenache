@@ -1,10 +1,16 @@
-<p align="left">
-  <img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png" 
-       alt="Thea's Headshot" 
-       width="80" 
-       style="border-radius: 50%; vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 32px; font-weight: bold;">Welcome to my page!</span>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png" 
+           alt="Thea's Headshot" 
+           width="100" 
+           style="border-radius: 50%; object-fit: cover;" />
+    </td>
+    <td>
+      <h1 style="margin-left: 20px;">Welcome to my page!</h1>
+    </td>
+  </tr>
+</table>
 
 I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student from Romania and Silicon Valley, CA.
 

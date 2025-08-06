@@ -73,6 +73,7 @@ Here are a few things I've worked on or am currently building:
 - **GlucoPal** – A mobile app concept for inclusive diabetes management, designed with health equity in mind.
 - **SporeSpatial** – Using machine learning to predict the climate-driven risk of *Candida auris*, a lethal fungal infection.
 - **COVID-19 Political Spread** – Statistical modeling of how political affiliation influenced vaccine uptake and infection spread in the U.S.
+- My personal website
 
 ## Currently Learning
 

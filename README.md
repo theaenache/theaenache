@@ -65,16 +65,6 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 -  AI & deep learning applications towards **health advancements**
 -  It is very easy to make me curious about pretty much anything
 
-## Projects
-
-Here are a few things I've worked on or am currently building:
-
-- **[DTIAdapt](https://github.com/theaenache/DTIAdapt)** – A deep learning framework for drug-target interaction prediction using cross-attention and domain adaptation.
-- **GlucoPal** – A mobile app concept for inclusive diabetes management, designed with health equity in mind.
-- **SporeSpatial** – Using machine learning to predict the climate-driven risk of *Candida auris*, a lethal fungal infection.
-- **COVID-19 Political Spread** – Statistical modeling of how political affiliation influenced vaccine uptake and infection spread in the U.S.
-- My personal website
-
 ## Currently Learning
 
 - Advanced neural networks & attention mechanisms  

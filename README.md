@@ -12,11 +12,11 @@
   </tr>
 </table>
 
-I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student from Romania and Silicon Valley, CA.
+I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student.
 
 I am currently living & studying in <b>San Diego, CA<b>.
 
-I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven public health tools.
+I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven health + public health tools.
 
 ## Things I code with
 
@@ -44,13 +44,10 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logoColor=white"/>
 </p>
 
 <!-- Web & Tools -->
 <p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,7 +64,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 
 ## Currently Learning
 
-- Advanced neural networks & attention mechanisms  
+- 
 - Geographic health mapping and spatial epidemiology  
 - Grant writing & nonprofit data reporting
 

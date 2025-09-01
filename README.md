@@ -62,11 +62,11 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 -  AI & deep learning applications towards **health advancements**
 -  It is very easy to make me curious about pretty much anything
 
-## Currently Learning
+## Currently Working On
 
-- 
 - Geographic health mapping and spatial epidemiology  
-- Grant writing & nonprofit data reporting
+- Clinical trial data analysis and economic modeling
+- Grant writing
 
 ## Let’s Connect!
 - LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)

@@ -64,8 +64,9 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 
 ## Currently Working On
 
-- Geographic health mapping and spatial epidemiology  
+- Using within host data to understand between host dynamics for disease modeling
 - Clinical trial data analysis and economic modeling
+- Domain adaptation for drug discovery 
 - Grant writing
 
 ## Let’s Connect!

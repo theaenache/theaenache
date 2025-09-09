@@ -68,6 +68,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 - Clinical trial data analysis and economic modeling
 - Domain adaptation for drug discovery 
 - Grant writing
+- Personal website & blog :)
 
 ## Let’s Connect!
 - LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)

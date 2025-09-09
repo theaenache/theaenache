@@ -14,7 +14,7 @@
 
 I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student.
 
-I am currently living & studying in <b>San Diego, CA<b>.
+I am currently studying in <b>San Diego, CA<b>.
 
 I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven health + public health tools.
 

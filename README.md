@@ -1,16 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/theaenache/theaenache/blob/main/Untitled%20design%20(1).png" 
-           alt="Thea's Headshot" 
-           width="100" 
-           style="border-radius: 50%; object-fit: cover;" />
-    </td>
-    <td>
-      <h1 style="margin-left: 20px;">Welcome to my page!</h1>
-    </td>
-  </tr>
-</table>
+
+<h1 style="margin-left: 20px;">Welcome to my page!</h1>
+   
 
 I'm <b>Thea Enache</b>, a Public Health, Computer Science, and Statistics student.
 
@@ -18,19 +8,20 @@ I am currently studying in <b>San Diego, CA<b>.
 
 I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven health + public health tools.
 
-## Things I code with
+# Tech Stack
 
-<!-- Languages -->
+## Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- Data Science -->
+## Data Science
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -39,22 +30,23 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
   <img alt="Minitab" src="https://img.shields.io/badge/Minitab-00A760?style=for-the-badge&logoColor=white"/>
 </p>
 
-<!-- Machine Learning -->
+## Machine Learning
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-<!-- Web & Tools -->
+## Web & Tools 
 <p>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Unix" src="https://img.shields.io/badge/Unix-4B275F?style=for-the-badge&logo=unix&logoColor=white"/>
 </p>
 
-
-## What I'm Interested In
+# What I'm Interested In
 
 -  **Biomedical informatics** and **machine learning** with public health impact 
 -  **Global health** and health equity through data and policy
@@ -62,7 +54,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 -  AI & deep learning applications towards **health advancements**
 -  It is very easy to make me curious about pretty much anything
 
-## Currently Working On
+# Currently Working On
 
 - Using within host data to understand between host dynamics for disease modeling
 - Clinical trial data analysis and economic modeling
@@ -70,7 +62,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 - Grant writing
 - Personal website & blog :)
 
-## Let’s Connect!
+# Let’s Connect!
 - LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)
 
 

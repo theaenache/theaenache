@@ -58,12 +58,14 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 
 - Using within host data to understand between host dynamics for disease modeling
 - Clinical trial data analysis and economic modeling
-- Domain adaptation for drug discovery 
+- Domain adaptation for drug discovery
+- Disease Modeling 
 - Grant writing
+- Creative direction and writing for a fashion magazine
 - Personal website & blog :)
 
 # Let’s Connect!
-- LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)
+LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)
 
 
 

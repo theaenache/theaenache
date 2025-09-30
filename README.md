@@ -61,7 +61,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 - Domain adaptation for drug discovery
 - Disease Modeling 
 - Grant writing
-- Creative direction and writing for a fashion magazine
+- Writing for a fashion magazine
 - Personal website & blog :)
 
 # Let’s Connect!

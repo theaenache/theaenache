@@ -59,7 +59,7 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
 - Using within host data to understand between host dynamics for disease modeling
 - Clinical trial data analysis and economic modeling
 - Domain adaptation for drug discovery
-- Disease Modeling 
+- Disease modeling 
 - Grant writing
 - Writing for a fashion magazine
 - Personal website & blog :)

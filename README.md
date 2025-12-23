@@ -2,7 +2,7 @@
 <h1 style="margin-left: 20px;">Welcome to my page!</h1>
    
 
-I'm <b>Thea Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.
+Hi! I'm <b>Thea</b>, a Public Health, Computer Science, Mathematics and Statistics student.
 
 I am currently studying in <b>San Diego, CA<b>.
 

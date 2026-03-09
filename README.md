@@ -1,9 +1,10 @@
 
 
-I'm #<b>Thea L. Enache</b>#, a Public Health, Computer Science, Mathematics and Statistics student.
+I'm <b>Thea L. Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.
 
 I am currently studying in <b>San Diego, CA<b>.
 
+Pronouns: she/her/hers
 
 ## Tech Stack
 <p>
@@ -44,9 +45,6 @@ I am currently studying in <b>San Diego, CA<b>.
   <img alt="Unix" src="https://img.shields.io/badge/Unix-4B275F?style=for-the-badge&logo=unix&logoColor=white"/>
 </p>
 
-
-# Let’s Connect!
-LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)
 
 
 

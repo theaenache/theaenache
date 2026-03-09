@@ -8,9 +8,8 @@ I am currently studying in <b>San Diego, CA<b>.
 
 I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven health + public health tools.
 
-# Tech Stack
 
-## Languages
+## Tech Stack
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -22,7 +21,6 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## Data Science
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -32,7 +30,6 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
   <img alt="Minitab" src="https://img.shields.io/badge/Minitab-00A760?style=for-the-badge&logoColor=white"/>
 </p>
 
-## Machine Learning
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
@@ -41,7 +38,6 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-## Web & Tools 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>

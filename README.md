@@ -1,5 +1,5 @@
 
-<h1 style="margin-left: 20px;">Welcome to my page!</h1>
+<h1 style="margin-left: 20px;">hi!</h1>
    
 
 I'm <b>Thea L. Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.

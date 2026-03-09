@@ -2,11 +2,9 @@
 <h1 style="margin-left: 20px;">Welcome to my page!</h1>
    
 
-Hi! I'm <b>Thea</b>, a Public Health, Computer Science, Mathematics and Statistics student.
+I'm <b>Thea L. Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.
 
 I am currently studying in <b>San Diego, CA<b>.
-
-I have extremely interdisciplinary interests, but I currently work in epidemiology, ML for health, data science for clinical trials, and data-driven health + public health tools.
 
 
 ## Tech Stack

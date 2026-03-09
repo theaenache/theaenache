@@ -2,7 +2,7 @@
 
 ## Hi! I'm <b>Thea L. Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.
 
-I am currently studying in <b>San Diego, CA<b>.
+I am currently studying in <b>San Diego, CA<b> at <b>San Diego State University<b>.
 
 Pronouns: she/her/hers
 

@@ -52,23 +52,6 @@ I have extremely interdisciplinary interests, but I currently work in epidemiolo
   <img alt="Unix" src="https://img.shields.io/badge/Unix-4B275F?style=for-the-badge&logo=unix&logoColor=white"/>
 </p>
 
-# What I'm Interested In
-
--  **Biomedical informatics** and **machine learning** with public health impact 
--  **Global health** and health equity through data and policy
--  **Data science** for health outcomes research
--  AI & deep learning applications towards **health advancements**
--  It is very easy to make me curious about pretty much anything
-
-# Currently Working On
-
-- Using within host data to understand between host dynamics for disease modeling
-- Clinical trial data analysis and economic modeling
-- Domain adaptation for drug discovery
-- Disease modeling 
-- Grant writing
-- Writing for a fashion magazine
-- Personal website & blog :)
 
 # Let’s Connect!
 LinkedIn: [linkedin.com/in/theaenache](https://linkedin.com/in/theaenache)

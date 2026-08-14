@@ -1,6 +1,6 @@
 
 
-## Hi! I'm <b>Thea L. Enache</b>, a Public Health, Computer Science, Mathematics and Statistics student.
+## Hi! I'm <b>Thea L. Enache</b>, a Public Health and Mathematical Data Science + Computer Science Student.
 
 I am currently studying in <b>San Diego, CA<b> at <b>San Diego State University<b>.
 
